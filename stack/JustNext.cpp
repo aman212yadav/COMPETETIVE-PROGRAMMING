@@ -1,3 +1,5 @@
+//solution written by Aman Yadav
+// problem link https://www.spoj.com/problems/JNEXT/
 #include<bits/stdc++.h>
 using namespace std;
 int main()
